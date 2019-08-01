@@ -28,10 +28,3 @@ l = ['Dipan','Hari','Divyanshu','Neha', 'Monalisa']
 l[0:2] # ====> ['Dipan', 'Hari']
 l[0:1][0] # 'Dipan'
 l[0:1][0][2] # ====> 'p'
-
-
-# In[ ]:
-
-
-Users(/dipapate/Documents/Cisco-Dipan/gitTest/PythonProgramming)
-
