@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Apihouse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Covid/covid19india-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-cheatsheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python3-in-one-pic" vcs="Git" />
+  </component>
+</project>
