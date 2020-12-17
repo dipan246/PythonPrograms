@@ -1,4 +1,7 @@
-class Child:
+class Parent:
+    pass
+
+class Child(Parent):
     def __init__(self,name):
         self.name = name
 
