@@ -9,3 +9,5 @@ def fun():
    pass
 
 fun()
+a
+nb
